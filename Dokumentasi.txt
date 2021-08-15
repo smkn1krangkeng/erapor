@@ -24,3 +24,7 @@ git push
 untuk melihat configurasi git
 git config --list
 
+untuk membuat configurasi user.name dan user.email secara global / local
+
+git config --global user.name "smkn1krangkeng"
+git config --global user.email "smkn1krg.33@gmail.com"
