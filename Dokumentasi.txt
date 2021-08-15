@@ -28,3 +28,6 @@ untuk membuat configurasi user.name dan user.email secara global / local
 
 git config --global user.name "smkn1krangkeng"
 git config --global user.email "smkn1krg.33@gmail.com"
+
+jika file status nya modified bisa langsung commit
+git commit -am "menambah baris"
