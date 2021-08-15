@@ -31,3 +31,21 @@ git config --global user.email "smkn1krg.33@gmail.com"
 
 jika file status nya modified bisa langsung commit
 git commit -am "menambah baris"
+
+membuat branch
+git branch nama_branch
+
+melihat branch
+git branch
+
+melihat history dari sebuah commit
+git log
+
+untuk berpindah ke branch tertentu
+git checkout nama_branch
+
+untuk merger branch tertentu ke master, syarat checkout dulu ke master
+git merge nama_branch
+
+untuk menghapus branch
+git branch -d nama_branch
