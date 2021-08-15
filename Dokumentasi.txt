@@ -1,0 +1,16 @@
+Bekerja dengan GIT
+
+Untuk klone repositories
+Git clone https://github.com/smkn1krangkeng/erapor.git
+
+Cek status
+Git status
+
+Membuat Graph
+Alias graph="git log --all --decorate --oneline --graph"
+
+Memanggil alias graph
+Graph
+
+memindahkan file yang ada di working area ke staging area
+git add .
