@@ -47,5 +47,14 @@ git checkout nama_branch
 untuk merger branch tertentu ke master, syarat checkout dulu ke master
 git merge nama_branch
 
-untuk menghapus branch
+untuk menghapus branch yg sudah di merged
 git branch -d nama_branch
+
+untuk menghapus branch yg tanpa harus di merged
+git branch -D nama_branch
+
+untuk mengetahui branch mana yg sudah di merged
+git branch --merged
+
+untuk berpindah ke commit tertentu dengan mengabil 7 digit dari hash commit
+git checkout 786dre5
