@@ -14,3 +14,13 @@ Graph
 
 memindahkan file yang ada di working area ke staging area
 git add .
+
+membuat commit ke repositories
+git commit -m "menambah dokumentasi"
+
+untuk mengirim ke repositories
+git push
+
+untuk melihat configurasi git
+git config --list
+
