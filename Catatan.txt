@@ -58,3 +58,6 @@ git branch --merged
 
 untuk berpindah ke commit tertentu dengan mengabil 7 digit dari hash commit
 git checkout 786dre5
+
+//Laravel
+versi: 8.5.24
