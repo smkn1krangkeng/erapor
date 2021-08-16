@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>eRapor | @yield('judul_hal')</title>
   @include('layout.backend.style') 
+  @include('layout.backend.header') 
   @stack('css')
   
 </head>
@@ -19,7 +20,7 @@
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a href="#" class="brand-link">
-      <img src="{{url('dist/img/AdminLTELogo.png')}}" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
+      <img src="{{url('logo/ms-icon-70x70.png')}}" alt="AdminLTE Logo" class="brand-image elevation-3" style="opacity: .8">
       <span class="brand-text font-weight-light">eRapor SMK</span>
     </a>
 

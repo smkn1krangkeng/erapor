@@ -81,8 +81,8 @@
             <div class="card">
               <div class="card-header">
                 <h3 class="card-title">
-                  <i class="fas fa-chart-pie mr-1"></i>
-                  Sales
+                  <i class="fas fa-exchange-alt"></i>
+                  Changelogs
                 </h3>
                 <div class="card-tools">
                   <button type="button" class="btn btn-sm" data-card-widget="collapse">
